@@ -1,0 +1,56 @@
+[33mcommit 1991f5c97ed85934b18226d93a5155c9861643ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:41:09 2020 +0300
+
+    HW
+
+[33mcommit 5ccf66e2f679b296c8756d122ed19e4fdcc7ae0c[m
+Merge: a80acd1 323ed43
+Author: galamo <32986703+galamo@users.noreply.github.com>
+Date:   Mon Jun 15 21:34:52 2020 +0300
+
+    Merge pull request #1 from galamo/adding_ip_list
+    
+    merged list management
+
+[33mcommit 323ed4341c86d541b05373fe1df10abbe4e9bc0b[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:33:14 2020 +0300
+
+    after review
+
+[33mcommit a96fc844bb5d3b51c55d462337fdc9c60c89177a[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:23:49 2020 +0300
+
+    readme commnets
+
+[33mcommit 334c2cc9870dc8bfa1bc1168e78419392b9c9a7d[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:21:23 2020 +0300
+
+    list management phase 1
+
+[33mcommit a80acd191f6cf5e46d8871d2c59044689cd20577[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:16:41 2020 +0300
+
+    adding list
+
+[33mcommit e418568db9eea12da1b34cd61be624459c69f6ed[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 22:02:12 2020 +0300
+
+    please check this out nice self invoke function
+
+[33mcommit 4cd8cb51741324d91df02395111390f1370cb648[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 21:00:36 2020 +0300
+
+    adding console.log
+
+[33mcommit 541874a081b6682f606bb813618259fc6cf0ae48[m
+Author: galamo <galamouyal88@gmail.com>
+Date:   Mon Jun 15 20:59:52 2020 +0300
+
+    adding intial files
