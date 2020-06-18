@@ -28,3 +28,20 @@ git commit -m "adding intial files"
 
 
 ## creating new branch
+git branch -b BRANCH_NAME
+git add 
+git commit - m "MESSAGE"
+git push origin head
+
+### Go to Github
+1. create pull request from the branch
+2. send to gal for contribute
+3. after my confirmation 
+4. merge to master ( from the service)
+
+## last step
+1. go to your master branch in the local machine and:
+git pull origin master 
+
+check that the changes are made and your project is working
+
